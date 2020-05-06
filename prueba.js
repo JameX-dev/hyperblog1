@@ -1,8 +1,8 @@
 "use stict"
 
-var numero1
-var numero2
+var numero1;
+var numero2;
 
-var resultado
+var resultado;
 
 resultado = numero1+numero2;
